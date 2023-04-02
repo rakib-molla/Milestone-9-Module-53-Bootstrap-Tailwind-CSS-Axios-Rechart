@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": " Premium Membership",
+        "price": 60,
+        "features": ["Gym access", "Locker room", "Unlimited", "classes","1 personal training session"]
+    },
+    {
+        "id": "2",
+        "name": "Corporate Membership",
+        "price": 80,
+        "features": ["Gym access", "Locker room", "Unlimited", "classes","1 personal training session"]
+    },
+    {
+        "id": "3",
+        "name": "Gold Membership",
+        "price": 120,
+        "features": ["Gym access", "Locker room", "Unlimited", "classes","1 personal training session"]
+    }
+]
